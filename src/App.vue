@@ -9,7 +9,8 @@
 // import HelloWorld from './components/HelloWorld.vue'
 // import HelloWorld from "./components/communication/index.vue";
 // import HelloWorld from "./components/slots/index.vue";
-import HelloWorld from "./components/form/index.vue";
+//import HelloWorld from "./components/form/index.vue";
+import HelloWorld from './views/index.vue';
 
 export default {
   name: "App",
